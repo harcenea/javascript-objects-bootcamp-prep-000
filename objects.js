@@ -1,6 +1,7 @@
 var playlist = {
-  KKB : "Slowdrive",
-  PhilOchs : "love" } ;
+  Slowdive : "Slowdrive",
+  PhilOchs : "love"
+  MyBloodyValentine : "asf"} ;
   
   function updatePlaylist (playlist, artistName, songTitle)
   { playlist.atmosphere="vampires" ;

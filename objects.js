@@ -9,4 +9,7 @@ var playlist = {
     
   return playlist}
   
-  function removeFromPlaylist (playlist, artistName) {delete playlist.artistName; return playlist;}
+  function removeFromPlaylist (playlist, artistName) {
+    
+    artistName = "Slowdive";
+    delete playlist.artistName; return playlist;}
